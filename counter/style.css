@@ -7,6 +7,12 @@ button{
      color: #000000;
      background-color: #34da1b;
 }
+button:hover{
+    background-color: #28a117;
+    color: #ffffff;
+    cursor: pointer;
+}   
+
 /* #in{
     box-sizing: border-box;
     padding: 10px;
@@ -37,6 +43,7 @@ button{
     display: block;
     margin-bottom: 20px;
 }
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0f0f0;
@@ -44,3 +51,4 @@ body {
     text-align: center;
     padding: 50px;
 }
+
